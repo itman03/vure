@@ -1,0 +1,11 @@
+.product{
+    .title{
+        margin-bottom: 30px;
+    }
+    .product-tabs__content{
+        display: none;
+        &__active{
+            display: block;
+        }
+    }
+}

@@ -1,0 +1,22 @@
+.about{
+    
+    .row{
+        display: flex;
+        margin-top: 32px;
+    }
+    
+    .col-6{
+        margin-bottom: 104px;
+    }
+
+    .description{
+        margin-bottom: 32px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 20px;
+        align-items: center;
+        color: #2C2D2E;
+        
+    }
+}

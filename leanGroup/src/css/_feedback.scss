@@ -1,0 +1,17 @@
+.feedback{
+    .feedback__title{
+        padding-top: 24px;
+    }
+    .feedback__flex{
+        background: url('../photo/feedback/formbaner.png') center/cover;
+        &__form{
+            display: flex;
+            flex-wrap: wrap;
+            
+        }
+       &__form{
+        display: flex;
+        flex-wrap: wrap;
+       }
+    }
+}

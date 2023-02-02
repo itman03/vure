@@ -1,0 +1,171 @@
+.home{
+    .bg{
+        height: 525px;
+        &__bg1{
+            background: url('../photo/home/bg1.jpg') center/cover;
+            height: 525px;
+            padding-top: 162px;
+            position: relative;
+            
+            &__main-title{
+                font-style: normal;
+                font-weight: 500;
+                font-size: 13px;
+                line-height: 13px;
+                display: flex;
+                align-items: center;
+                margin-bottom: 16px;
+                margin-left: 116px;
+                
+            }
+           &__title{
+            font-style: normal;
+            font-weight: 600;
+            font-size: 32px;
+            line-height: 40px;
+            display: flex;
+            align-items: center;
+            margin-bottom: 16px;
+            margin-left: 116px;
+           }
+           &__description{
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 20px;
+            color: #2C2D2E;
+            margin-bottom: 26px;
+            max-width: 582px;
+            margin-left: 116px;
+           }
+           &__link{
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 20px;
+            text-align: center;
+            color: #FFFFFF;
+            margin-left: 116px;
+            padding: 10px 20px;
+            background-color: #EF7C00;
+            border-radius: 4px;
+
+           }
+        }
+        &__bg2{
+            background: url('../photo/home/bg1.jpg') center/cover;
+            height: 525px;
+            padding-top: 154px;
+
+            &__main{
+                font-style: normal;
+                font-weight: 500;
+                font-size: 13px;
+                line-height: 13px;
+                display: flex;
+                align-items: center;
+                color: #2C2D2E;
+                margin-bottom: 4px;
+                margin-left: 116px;
+                
+
+            }
+            &__title{
+                font-style: normal;
+                font-weight: 600;
+                font-size: 32px;
+                line-height: 40px;
+                color: #2C2D2E;
+                margin-bottom: 12px;
+                margin-left: 116px;
+
+            }
+            &__description{
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 20px;
+                color: #2C2D2E;
+                margin-bottom: 42px;
+                max-width: 582px;
+                margin-left: 116px;
+            }
+            &__link{
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 20px;
+                text-align: center;
+                color: #FFFFFF;
+                padding: 10px 20px;
+                background-color: #EF7C00;
+                margin-left: 116px;
+                border-radius: 4px;
+            }
+
+            
+        }
+        &__bg3{
+            background: url('../photo/home/bg2.jpg') center/cover;
+            height: 525px;
+            padding-top: 154px;
+            &__main{
+                font-style: normal;
+                font-weight: 500;
+                font-size: 13px;
+                line-height: 13px;
+                display: flex;
+                align-items: center;
+                color: #2C2D2E;
+                margin-bottom: 4px;
+                margin-left: 116px;
+
+            }
+            &__title{
+                font-style: normal;
+                font-weight: 600;
+                font-size: 32px;
+                line-height: 40px;
+                color: #2C2D2E;
+                margin-bottom: 12px;
+                margin-left: 116px;
+            }
+            &__description{
+                max-width: 582px;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 20px;
+                color: #2C2D2E;
+                margin-bottom: 42px;
+                margin-left: 116px;
+                
+            }
+            &__link{
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 20px;
+                text-align: center;
+                color: #FFFFFF;
+                padding: 10px 20px;
+                background-color: #EF7C00;
+                margin-left: 116px;
+                border-radius: 4px;
+
+            }
+
+            
+        }
+    }
+    .owl-theme .owl-nav.disabled+.owl-dots{
+        margin-left: 116px;
+        position: absolute;
+        bottom: 40px;
+
+    }
+    
+    
+
+}

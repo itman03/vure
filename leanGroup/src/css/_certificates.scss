@@ -1,0 +1,40 @@
+.certificates{
+    padding: 48px 0;
+    .title{
+        margin-bottom: 30px;
+    }
+    .owl-theme .owl-nav{
+        margin-top: 0;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 100%;
+        .custom-prev{
+            background: url('../photo/cert/nav/prev.png');
+            position: absolute;
+            cursor: pointer;
+            font-size: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            left: -63px;
+            width: 27px;
+            height: 50px;
+
+            
+            
+        }
+        .custom-next{
+            background: url('../photo/cert/nav/next.png');
+            position: absolute;
+            cursor: pointer;
+            font-size: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            right: -63px;
+            width: 27px;
+            height: 50px;
+            
+        }
+    }
+    
+}

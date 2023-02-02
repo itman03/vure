@@ -1,0 +1,24 @@
+.certificates {
+  padding: 48px 0;
+}
+.certificates .title {
+  margin-bottom: 30px;
+}
+.certificates .owl-carousel .owl-stage-outer .custom-prev {
+  overflow: visible;
+}
+.certificates .owl-theme .owl-nav {
+  margin-top: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+}
+.certificates .owl-theme .owl-nav .custom-prev {
+  position: absolute;
+  left: -1;
+}
+.certificates .owl-theme .owl-nav .custom-next {
+  position: absolute;
+  left: 97%;
+}/*# sourceMappingURL=certificates.css.map */
